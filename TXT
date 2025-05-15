@@ -1,0 +1,310 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//In Flow Calendar - Southern Hemisphere//EN
+
+BEGIN:VEVENT
+UID:20250413-full-moon-libra@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Moon in Libra
+DTSTART;VALUE=DATE:20250413
+DESCRIPTION:Balance illuminated under a silvery glow—pause and weave harmony in partnership.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250419-sun-enters-taurus@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Taurus
+DTSTART;VALUE=DATE:20250419
+DESCRIPTION:Earth’s pulse slows, roots deepen—savor each steady breath of being.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250428-new-moon-taurus@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Taurus
+DTSTART;VALUE=DATE:20250428
+DESCRIPTION:In the hush of shadow, hidden roots stir—tend your quiet hopes in rich earth.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250430-samhain@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Samhain (Cross-Quarter Festival)
+DTSTART;VALUE=DATE:20250430
+DESCRIPTION:Dusk carries ancestral breath—light a flame, offer gratitude, then release the past.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250512-full-moon-scorpio@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Moon in Scorpio
+DTSTART;VALUE=DATE:20250512
+DESCRIPTION:Deep waters shimmer under moonlight—lean into hidden truths and emerge renewed.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250521-sun-enters-gemini@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Gemini
+DTSTART;VALUE=DATE:20250521
+DESCRIPTION:The air stirs with curiosity—let your thoughts and words take flight together.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250527-new-moon-gemini@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Gemini
+DTSTART;VALUE=DATE:20250527
+DESCRIPTION:Quiet sparks gather in twilight—name one bold idea and let it take flight.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250611-full-moon-sagittarius@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Moon in Sagittarius
+DTSTART;VALUE=DATE:20250611
+DESCRIPTION:A blaze at horizon’s edge—step toward distant dreams and feel the call of freedom.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250621-yule-winter-solstice@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Yule – Winter Solstice
+DTSTART:20250621T124200
+DESCRIPTION:The longest night cradles a hidden spark—rest deeply to gather strength for the light’s return.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250621-sun-enters-cancer@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Cancer
+DTSTART;VALUE=DATE:20250621
+DESCRIPTION:Tides of feeling rise—nurture your inner sanctuary with gentle care.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250626-new-moon-cancer@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Cancer
+DTSTART;VALUE=DATE:20250626
+DESCRIPTION:Soft darkness cradles tender roots—plant nurturing practices for growth.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250703-aphelion@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Aphelion (Earth farthest from Sun)
+DTSTART:20250703T155400
+DESCRIPTION:Earth drifts distant from the sun—step back, breathe deeply, and notice the space around you.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250710-full-moon-capricorn@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Moon in Capricorn
+DTSTART;VALUE=DATE:20250710
+DESCRIPTION:A silent peak crowned in moonlight—set a clear intention and take one purposeful step.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250717-mercury-retrograde-begins@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Mercury Retrograde begins
+DTSTART;VALUE=DATE:20250717
+DESCRIPTION:Words slow to a whisper—pause before speaking and listen for deeper meaning.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250723-sun-enters-leo@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Leo
+DTSTART;VALUE=DATE:20250723
+DESCRIPTION:A golden breeze warms the soul—let your inner light shine freely.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250725-new-moon-leo@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Leo
+DTSTART;VALUE=DATE:20250725
+DESCRIPTION:A spark trembles in night’s velvet—embrace playful creativity and wonder.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250801-imbolc@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Imbolc (Cross-Quarter Festival)
+DTSTART;VALUE=DATE:20250801
+DESCRIPTION:Under crusted soil, life whispers—celebrate first stirrings of spring’s promise.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250809-full-moon-aquarius@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Moon in Aquarius
+DTSTART;VALUE=DATE:20250809
+DESCRIPTION:Starlight pulses over open water—reach beyond known shores in wonder.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250811-mercury-retrograde-ends@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Mercury Retrograde ends
+DTSTART;VALUE=DATE:20250811
+DESCRIPTION:Clarity returns like dawn—move forward with renewed purpose.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250823-sun-enters-virgo@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Virgo
+DTSTART;VALUE=DATE:20250823
+DESCRIPTION:Dew-kissed leaves catch the light—prune away what no longer serves and tend with care.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250907-full-blood-moon-pisces@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Blood Moon in Pisces (Total Lunar Eclipse)
+DTSTART;VALUE=DATE:20250907
+DESCRIPTION:Crimson hush envelops the night—release old patterns and flow into compassion.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250922-partial-solar-eclipse-virgo@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Partial Solar Eclipse in Virgo
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Light narrows to a sliver—find sharp clarity in gentle shadow.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250922-new-moon-virgo@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Virgo
+DTSTART;VALUE=DATE:20250922
+DESCRIPTION:Frost-kissed earth welcomes fresh seeds—plan with precision and nurture growth.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923-ostara-equinox@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Ostara – Spring Equinox
+DTSTART:20250923T041900
+DESCRIPTION:Light and dark stand at the threshold—sow first shoots of renewal with gentle joy.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20250923-sun-enters-libra@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Libra
+DTSTART;VALUE=DATE:20250923
+DESCRIPTION:Harmony ripples through the air—weave fairness into every encounter.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251007-full-supermoon-aries@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Supermoon in Aries
+DTSTART;VALUE=DATE:20251007
+DESCRIPTION:A fierce glow looms close—declare one brave intention and step into its fire.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251021-new-moon-libra@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Libra
+DTSTART;VALUE=DATE:20251021
+DESCRIPTION:A delicate hush of harmony—plant intentions of peace and grace.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251024-sun-enters-scorpio@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Scorpio
+DTSTART;VALUE=DATE:20251024
+DESCRIPTION:Deep shadows beckon inward—embrace the alchemy hidden in depths.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251101-beltane@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Beltane (Cross-Quarter Festival)
+DTSTART;VALUE=DATE:20251101
+DESCRIPTION:Warm dusk hums with blossoms—dance in passion’s vibrant pulse.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251106-full-supermoon-taurus@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Supermoon in Taurus
+DTSTART;VALUE=DATE:20251106
+DESCRIPTION:A golden orb bathes the land—savor the richness of simple pleasures.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251109-mercury-retrograde-begins2@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Mercury Retrograde begins
+DTSTART;VALUE=DATE:20251109
+DESCRIPTION:Time’s echo slows the mind—review your plans before moving forward.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251111-new-moon-scorpio@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Scorpio
+DTSTART;VALUE=DATE:20251111
+DESCRIPTION:Secret soils shift beneath darkness—plant seeds of renewal in hidden places.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251122-sun-enters-sagittarius@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Sagittarius
+DTSTART;VALUE=DATE:20251122
+DESCRIPTION:A cool breeze carries distant songs—follow where wonder leads your steps.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251129-mercury-retrograde-ends2@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Mercury Retrograde ends
+DTSTART;VALUE=DATE:20251129
+DESCRIPTION:Clarity dawns like morning light—let confidence guide your words.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251206-full-supermoon-gemini@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Full Supermoon in Gemini
+DTSTART;VALUE=DATE:20251206
+DESCRIPTION:Twin sparks shimmer in the sky—share stories that ignite connection.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251220-new-moon-sagittarius@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:New Moon in Sagittarius
+DTSTART;VALUE=DATE:20251220
+DESCRIPTION:An ember drifts on silent air—plant a vision of adventure and watch it grow.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251222-litha-summer-solstice@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Litha – Summer Solstice
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:Daylight spills in abundance—stand fully in your light and let it nourish you.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20251222-sun-enters-capricorn@inflow.calendar
+DTSTAMP:20250429T000000Z
+SUMMARY:Sun enters Capricorn
+DTSTART;VALUE=DATE:20251222
+DESCRIPTION:Dusk settles on firm ground—anchor your visions in lasting form.
+END:VEVENT
+
+END:VCALENDAR
